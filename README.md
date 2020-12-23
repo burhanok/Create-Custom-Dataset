@@ -3,4 +3,4 @@ Create custom image dataset using python on google colab
 
 This script can run only on google colab.
 
-This script create only one channel(grayscale) image datasets.
+This script create image datasets only with one channel(grayscale).
